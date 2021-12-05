@@ -8,7 +8,7 @@ You can use a chart to display data you entered in a spreadsheet. Using a bar ch
     - **First column** Labels for each row are entered in the first column.
     - **Other columns** Data values are entered in other columns. 
 4. In **Chart Editor**, click **Setup**.
-5. Under **Chart Type**, click the down arrow ![downward arrow](https://ibb.co/YfJndZ0)
+5. Under **Chart Type**, click the down arrow ![downward arrow](https://lh3.googleusercontent.com/7acH9pM1qZl0MEFmPRkOPeuNk48-E7Wbn08-h9yfGXbkMTKHY0kOPqurH20N2jHFwZY=w36-h36)
 6. Choose the bar chart to create your chart.
 
 You can change how your chart looks by clicking **Customize** in Chart Editor.
