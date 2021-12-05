@@ -1,5 +1,5 @@
 # How to play Tic-Tac-Toe
-## <mark>WARNING: ELECTRIC SHOCK</mark>
+
 Tic-tac-toe is a game where two players, X and O, must place three of their marks in a row to win.
 
 ## Before you begin
