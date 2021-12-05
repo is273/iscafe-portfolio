@@ -1,6 +1,8 @@
 # Create a bar chart in Google Sheets
 You can use a chart to display data you entered in a spreadsheet. Using a bar chart allows you to compare individual items.
 
+<details><summary>Computer</summary>
+<p>
 1. In [Google Sheets](https://www.google.com/sheets/about/), open a spreadsheet.
 2. Select the cells you want to include in your chart.
 3. In the toolbar, click **Insert > Chart**.
@@ -12,3 +14,5 @@ You can use a chart to display data you entered in a spreadsheet. Using a bar ch
 6. Choose the bar chart to create your chart.
 
 You can change how your chart looks by clicking **Customize** in Chart Editor.
+</p>
+</details>
