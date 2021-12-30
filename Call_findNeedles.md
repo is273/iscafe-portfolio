@@ -1,5 +1,5 @@
 # Call Method: findNeedles
-Calls the [findNeedles method]{https://docs.google.com/document/d/1zeIYLWabTiahjGU6y6IfVxcwv8XNJg_sTfMbBNyxs70/edit} 
+Calls the [findNeedles method](https://docs.google.com/document/d/1zeIYLWabTiahjGU6y6IfVxcwv8XNJg_sTfMbBNyxs70/edit) 
 and compares the valus of the `haystack` string
 and the `needles` string array.
 
