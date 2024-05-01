@@ -29,4 +29,4 @@ public class FarmBarn{
 If successful, each term from the `needles` string array shows with the number 
 of times each term appears in the `haystack` string.
 
-If the `needles` string array’s length is greater than 5, the function will print an error and exit.
+If the `needles` string array’s length is greater than 5, the function prints an error and exit.
