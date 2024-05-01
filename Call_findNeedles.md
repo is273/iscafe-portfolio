@@ -21,7 +21,7 @@ public class FarmBarn{
 | Field  | Description |
 | ------------- | ------------- |
 | `public class`  | The name of the public class.|
-| `public static void`  | Stores Java command line arguments in an array.|
+| `public static void`  | Stores the Java command line arguments in an array.|
 | `String[] needles` | The values stored in a string array to be compared.|
 | `String haystack` | The value stored in a string to be compared.|
 
