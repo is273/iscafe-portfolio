@@ -26,7 +26,7 @@ public class FarmBarn{
 | `String haystack` | The value stored in a string to be compared.|
 
 ## Response Body
-If successful, each term from the `needles` string array will show with the amount 
-of times it appears in the `haystack` string.
+If successful, each term from the `needles` string array shows with the amount 
+of times each term appears in the `haystack` string.
 
 If the `needles` string array’s length is greater than 5, the function will print an error and exit.
