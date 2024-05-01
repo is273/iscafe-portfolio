@@ -38,17 +38,17 @@ public class FarmBarn{
 ## Fields
 | Field  | Description |
 | ------------- | ------------- |
-| `public class`  | `FarmBarn` The name of the public class.|
-| `public static void`  | `main(String[] args)` Stores Java command line arguments in an array.|
-| `String[] needles`  | `"almost", "knew", "ground", "sky"` The values stored in a string array to be compared.|
-| `String haystack`  | `“almost before we knew it, we had left the ground”` The value stored in a string to be compared.|
-| `public static void`  | `findNeedles(String haystack, String[]  needles)` The name of the method and its parameters.|
-| `int[] countArray`  | `new int[needles.length]` Stores the length of the needle string array.|
-| `String[] words`  | `haystack.split("[ \"\'\t\n\b\f\r]", 0)` Breaks the haystack string based on the delimiters and limit.|
-| `System.err.println`  | `"Too many words!"` The error that prints if the method fails.|
-| `System.out.println`  | `needles[j]+": "+countArray[j]` The message the method prints.|
+| `public class`  | The name of the public class.|
+| `public static void`  | Stores Java command-line arguments in an array.|
+| `String[] needles`  | The values that are stored in a string array to be compared.|
+| `String haystack`  | The value that is stored in a string to be compared.|
+| `public static void`  | The name of the method and its parameters.|
+| `int[] countArray`  | Stores the length of the needle string array.|
+| `String[] words`  | Breaks the haystack string based on the delimiters and limit.|
+| `System.err.println`  | The error that prints if the method fails.|
+| `System.out.println`  | The message the method prints.|
 
 ## Response Body
-After calling the method; if successful, each term from the needles string array will 
-show with the number of times it appears in the haystack string.
-If the needles string array’s length is greater than 5, the method will print an error and exit.
+After calling the method, if successful, each term from the needles string array will 
+show with the number of times the term appears in the haystack string.
+If the needles string array’s length is greater than 5, the method prints an error and exits.
