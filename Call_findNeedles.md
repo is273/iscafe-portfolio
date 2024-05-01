@@ -20,10 +20,10 @@ public class FarmBarn{
 ## Fields
 | Field  | Description |
 | ------------- | ------------- |
-| `public class`  | `FarmBarn` The name of the public class.|
-| `public static void`  | `main(String[] args)` Stores Java command line arguments in an array.|
-| `String[] needles` | `"almost", "knew", "ground", "sky"` The values stored in a string array to be compared.|
-| `String haystack` | `"almost before we knew it, we had left the ground"` The value stored in a string to be compared.|
+| `public class`  | The name of the public class.|
+| `public static void`  | Stores Java command line arguments in an array.|
+| `String[] needles` | The values stored in a string array to be compared.|
+| `String haystack` | The value stored in a string to be compared.|
 
 ## Response Body
 If successful, each term from the `needles` string array will show with the amount 
