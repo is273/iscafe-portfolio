@@ -1,9 +1,7 @@
 # Call Method: findNeedles
 You can call the [findNeedles method](https://docs.google.com/document/d/1zeIYLWabTiahjGU6y6IfVxcwv8XNJg_sTfMbBNyxs70/edit) 
 to compare the values of the `haystack` string
-and the `needles` string array.
-
-The `findNeedles` method returns the number of times a value appears in the `haystack` string.
+and the `needles` string array. The `findNeedles` method returns the number of times a value appears in the `haystack` string.
 
 ## Request Body
 The request body contains data with the following structure:
