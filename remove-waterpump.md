@@ -6,6 +6,7 @@ Failure to unplug the washing machine before any work has started could result i
 To remove the water pump, you will need the following:
 - Screwdriver
 - Pliers
+- Safety gloves
 
 ## Steps
 1. Turn off the water supply to the washing machine.
