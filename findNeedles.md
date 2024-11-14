@@ -46,6 +46,6 @@ public class FarmBarn{
 | `System.out.println`  | The message the method prints.|
 
 ## Response Body
-After calling the method, if successful, each term from the needles string array will 
+After calling the method, each term from the needles string array will 
 show with the number of times the term appears in the haystack string.
 If the needles string array’s length is greater than 5, the method prints an error and exits.
