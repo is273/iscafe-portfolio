@@ -1,7 +1,7 @@
 # Method: findNeedles
-Compares the values of the `haystack` string and the `needles` string array.
+The findNeedles method can compare the values of the `haystack` string and the `needles` string array.
 
-Returns the number of times a value appears in the `haystack` string. Fails if the 
+The findNeedles method returns the number of times a value appears in the `haystack` string. Fails if the 
 `needles` string array’s length is greater than 5.
 
 ## Request Body
